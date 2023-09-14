@@ -1,3 +1,3 @@
 !# bin/bash
-sudo chmod 777 /etc/hosts
+sudo chmod 700 /etc/hosts
 
